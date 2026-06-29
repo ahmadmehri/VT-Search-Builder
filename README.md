@@ -1,5 +1,6 @@
 <p align="center">
   <img src="docs/hero.svg" alt="VT Search Builder" width="100%">
+  
 </p>
 
 <p align="center">
